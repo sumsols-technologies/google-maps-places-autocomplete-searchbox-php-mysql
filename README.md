@@ -1,2 +1,24 @@
-# google-maps-places-autocomplete-searchbox-php-mysql
-Google maps places autocomplete with instant search box in HTML Form using Google Map Api. Please read video caption carefully. HOW IT WORKS? _Type requierd location in google map search box. _Select any location from dropdown using arrow keys. _Javascript will detect the location selection from google map. _Find the latitute and longtitude with javascript/jQuery and put in hidden field inside HTML Form element. _Submit the form and save Google map geocodes(Latitude and longitude) in database. That's it for this google maps place autocomplete tutorial. Leave comment if you have any query about this tutorial.
+# Google Maps Places Autocomplete Search Box PHP|MySql
+
+
+## WATCH YOUTUBUE VIDEO
+[https://www.youtube.com/watch?v=GqL0N4fu948](https://www.youtube.com/watch?v=GqL0N4fu948)
+
+
+## HOW IT WORKS?
+_Type requierd location in google map search box.
+
+_Select any location from dropdown using arrow keys.
+
+_Javascript will detect the location selection from google map.
+
+_Find the latitute and longtitude with javascript/jQuery and put in hidden field inside HTML Form element.
+
+_Submit the form and save Google map geocodes(Latitude and longitude) in database.
+
+That's it for this google maps place autocomplete tutorial.
+
+
+
+## Credits
+[Sumsols Technologies](https://sumsols.com/)
